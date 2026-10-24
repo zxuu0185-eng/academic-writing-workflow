@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文"
+  short_description: "按作业要求和评分细则推进论文写作，核实事实、修改内容并完成润色与中文核对"
+  default_prompt: "使用 $academic-writing-workflow，按我确认的论文流程处理这份作业。"
